@@ -1,4 +1,8 @@
 new file is addeed to the new branch
 contents are edited.
 changes can be done directly to new-branch
+<<<<<<< HEAD
 changes can be done directly to master branch 
+=======
+changes can be done directly to new-branch
+>>>>>>> new-branch
