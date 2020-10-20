@@ -1,4 +1,4 @@
 new file is addeed to the new branch
 contents are edited.
 changes can be done directly to new-branch
-changes can be done directly to master branh
+changes can be done directly to new-branch
