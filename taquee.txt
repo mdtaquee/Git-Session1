@@ -3,3 +3,4 @@ I am inserting text through vi editor
 
 I am adding text tot check th status
 chnages to be made in branch2
+changes to be made in branch1
